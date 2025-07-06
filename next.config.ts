@@ -10,7 +10,7 @@ import type { NextConfig } from "next";
    eslint: {
      ignoreDuringBuilds: true,
    },
-+  output: "export",
+   output: "export",
  };
 
 export default nextConfig;
